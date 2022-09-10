@@ -1,8 +1,8 @@
 ---
 name: Prateek Dinesh Singh
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 occupation: Front-End Web Developer
-company: University of Pune
+Education: University of Pune
 email: singh95prateek@gmail.com
 twitter: https://twitter.com/prateek85165206
 linkedin: https://www.linkedin.com/in/prateek-singh-6ab984145/
