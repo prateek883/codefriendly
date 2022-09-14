@@ -1,9 +1,9 @@
 const siteMetadata = {
-  title: 'Web Tech Blogs',
+  title: 'CodeHub',
   author: 'Prateek Singh',
-  headerTitle: 'WebTech',
+  headerTitle: 'CodeHub',
   description:
-    'Welcome to WebTech Blogs, This website provides all the information about the web technologies',
+    'Welcome to CodeHub Blogs, This website provides all the information about the web technologies',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
