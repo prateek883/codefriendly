@@ -1,6 +1,6 @@
 
-# CodeHub
-CodeHub is a web technologies platform which provides all the details of the Javascript Libraries and Frameworks.
+# CoderHub
+CoderHub is a web technologies platform which provides all the details of the Javascript Libraries and Frameworks.
 
 
 ## Authors
